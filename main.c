@@ -1,5 +1,5 @@
-#include "stringFunctions.h"
-#include "trie.h"
+#include "stringFunction.h"
+#include "treeFunction.h"
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
