@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdbool.h>
 #include <stdlib.h>
-#include "trie.h"
+#include "treeFunction.h"
 
 
 
